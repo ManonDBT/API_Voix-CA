@@ -1,0 +1,11 @@
+test_name: Test un compte rendu API
+
+
+stages:
+  - name: Test  un compte rendu API
+    request:
+      url: http://0.0.0.0:4567/data/60
+      method: GET
+    response:
+      status_code: 200
+

@@ -1,0 +1,10 @@
+test_name: Test Client api
+
+
+stages:
+  - name: Test Clients API
+    request:
+      url: http://0.0.0.0:4567/clients
+      method: GET
+    response:
+      status_code: 200

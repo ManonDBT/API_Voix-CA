@@ -1,0 +1,15 @@
+definitions:
+  Categorie:
+    type: object
+    properties:
+      id:
+        type: string
+      libelle:
+        type: string
+responses:
+  200:
+    description: liste des catégories
+    schema:
+      $ref: '#/definitions/Categorie'
+    examples:
+      categories: ['id:1', 'Point_d_attention_risques']

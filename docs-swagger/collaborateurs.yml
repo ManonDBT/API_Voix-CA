@@ -1,0 +1,17 @@
+definitions:
+  Collaborateurs:
+    type: object
+    properties:
+      id:
+        type: string
+      nom:
+        type: string
+      prenom:
+        type: string
+responses:
+  200:
+    description: liste des collaborateurs
+    schema:
+      $ref: '#/definitions/Collaborateurs'
+    examples:
+      collaborateurs: ['id:1', 'nom: XXXX', 'prénom:YYYYY']

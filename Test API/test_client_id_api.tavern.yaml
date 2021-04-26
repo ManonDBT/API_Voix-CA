@@ -1,0 +1,16 @@
+test_name: Test un seul Client api
+
+
+stages:
+  - name: Test  un seul Client api
+    request:
+      url: http://0.0.0.0:4567/client/1
+      method: GET
+    response:
+      status_code: 200
+      json:
+        [ {
+          "id": 1,
+          "nom": "DUPONT",
+          "prenom": "Antonin"
+        }]
