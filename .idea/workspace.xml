@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a4cd137d-5622-4e13-9077-705ee4a2b258" name="Default Changelist" comment="data" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1riNYtjEuohRVU9JvklE6TM661u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs-swagger" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs-swagger" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="api" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Flask_VoixCA_API-dev" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.api" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4cd137d-5622-4e13-9077-705ee4a2b258" name="Default Changelist" comment="" />
+      <created>1619455001770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619455001770</updated>
+    </task>
+    <task id="LOCAL-00001" summary="fonctionnalité">
+      <created>1619455553643</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619455553643</updated>
+    </task>
+    <task id="LOCAL-00002" summary="data">
+      <created>1619463293325</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619463293325</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fonctionnalité" />
+    <MESSAGE value="data" />
+    <option name="LAST_COMMIT_MESSAGE" value="data" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="508" y="208" key="FileChooserDialogImpl" timestamp="1619456878650">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="508" y="208" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1619456878650" />
+    <state x="529" y="373" key="Github.CreateGistDialog" timestamp="1619455210352">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="529" y="373" key="Github.CreateGistDialog/0.0.1440.900@0.0.1440.900" timestamp="1619455210352" />
+    <state width="1419" height="202" key="GridCell.Tab.0.bottom" timestamp="1619456194978">
+      <screen x="0" y="25" width="1440" height="800" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1619455757991" />
+    <state width="1419" height="202" key="GridCell.Tab.0.bottom/0.25.1440.800@0.25.1440.800" timestamp="1619456194978" />
+    <state width="1419" height="202" key="GridCell.Tab.0.center" timestamp="1619456194976">
+      <screen x="0" y="25" width="1440" height="800" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1619455757989" />
+    <state width="1419" height="202" key="GridCell.Tab.0.center/0.25.1440.800@0.25.1440.800" timestamp="1619456194976" />
+    <state width="1419" height="202" key="GridCell.Tab.0.left" timestamp="1619456194974">
+      <screen x="0" y="25" width="1440" height="800" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1619455757988" />
+    <state width="1419" height="202" key="GridCell.Tab.0.left/0.25.1440.800@0.25.1440.800" timestamp="1619456194974" />
+    <state width="1419" height="202" key="GridCell.Tab.0.right" timestamp="1619456194977">
+      <screen x="0" y="25" width="1440" height="800" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1619455757991" />
+    <state width="1419" height="202" key="GridCell.Tab.0.right/0.25.1440.800@0.25.1440.800" timestamp="1619456194977" />
+    <state x="144" y="76" key="MergeDialog" timestamp="1619463337918">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="144" y="76" key="MergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1619463337918" />
+    <state x="358" y="215" key="MultipleFileMergeDialog" timestamp="1619463337967">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="358" y="215" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1619463337967" />
+    <state x="229" y="86" key="SettingsEditor" timestamp="1619456999765">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1619456999765" />
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1619463285542">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1619463285542" />
+  </component>
+</project>
