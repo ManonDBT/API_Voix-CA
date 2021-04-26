@@ -36,6 +36,12 @@ La table catégorie centralise les thématiques qui peuvent être abordées lors
 
 La problématique qui se pose ici est une classification. Le modèle devra donc prédire les thématiques abordées lors d'un compte-rendu d'entretien commercial. 
 
+## Visualisation de la donnée
+
+
+## Modèle utilisé
+
+
 - [Notebook](https://github.com/ManonDBT/API_Voix-CA/blob/main/machine_learning/Multi-label_final.ipynb)
 - [MLFlow](https://github.com/ManonDBT/API_Voix-CA/blob/main/machine_learning/ML.py) 
 
@@ -46,3 +52,10 @@ La problématique qui se pose ici est une classification. Le modèle devra donc 
 - [Catégorie](https://github.com/ManonDBT/API_Voix-CA/blob/main/docs-swagger/categories.yml)
 - [Clients](https://github.com/ManonDBT/API_Voix-CA/blob/main/docs-swagger/clients.yml)
 - [Data](https://github.com/ManonDBT/API_Voix-CA/blob/main/docs-swagger/data.yml) 
+
+
+# Utilisation de l'API
+
+- Créer un environnement virtuel sous Python 3.9
+- Installer le package par la commande pip install -r requirements.txt
+- Run le fichier (https://github.com/ManonDBT/API_Voix-CA/blob/main/api.py)
