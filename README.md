@@ -58,4 +58,4 @@ La problématique qui se pose ici est une classification. Le modèle devra donc 
 
 - Créer un environnement virtuel sous Python 3.9
 - Installer le package par la commande pip install -r requirements.txt
-- Run le [fichier] (https://github.com/ManonDBT/API_Voix-CA/blob/main/api.py)
+- Run le [fichier](https://github.com/ManonDBT/API_Voix-CA/blob/main/api.py)
