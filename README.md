@@ -45,4 +45,4 @@ La problématique qui se pose ici est une classification. Le modèle devra donc 
 
 - [Catégorie](https://github.com/ManonDBT/API_Voix-CA/blob/main/docs-swagger/categories.yml)
 - [Clients](https://github.com/ManonDBT/API_Voix-CA/blob/main/docs-swagger/clients.yml)
-- Data 
+- [Data](https://github.com/ManonDBT/API_Voix-CA/blob/main/docs-swagger/data.yml) 
