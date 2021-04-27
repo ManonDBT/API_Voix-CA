@@ -10,7 +10,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4cd137d-5622-4e13-9077-705ee4a2b258" name="Default Changelist" comment="data" />
+    <list default="true" id="a4cd137d-5622-4e13-9077-705ee4a2b258" name="Default Changelist" comment="data">
+      <change beforePath="$PROJECT_DIR$/.idea/API_Voix-CA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/API_Voix-CA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs-swagger/data.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docs-swagger/data.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,15 +41,15 @@
   </component>
   <component name="RunManager">
     <configuration name="api" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Flask_VoixCA_API-dev" />
+      <module name="API_Voix-CA" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/env/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api.py" />
@@ -86,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619463293325</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="data">
+      <created>1619463427398</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619463427398</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,25 +126,25 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="529" y="373" key="Github.CreateGistDialog/0.0.1440.900@0.0.1440.900" timestamp="1619455210352" />
-    <state width="1419" height="202" key="GridCell.Tab.0.bottom" timestamp="1619456194978">
-      <screen x="0" y="25" width="1440" height="800" />
+    <state width="1419" height="243" key="GridCell.Tab.0.bottom" timestamp="1619527737720">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1619455757991" />
+    <state width="1419" height="243" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1619527737720" />
     <state width="1419" height="202" key="GridCell.Tab.0.bottom/0.25.1440.800@0.25.1440.800" timestamp="1619456194978" />
-    <state width="1419" height="202" key="GridCell.Tab.0.center" timestamp="1619456194976">
-      <screen x="0" y="25" width="1440" height="800" />
+    <state width="1419" height="243" key="GridCell.Tab.0.center" timestamp="1619527737718">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1619455757989" />
+    <state width="1419" height="243" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1619527737718" />
     <state width="1419" height="202" key="GridCell.Tab.0.center/0.25.1440.800@0.25.1440.800" timestamp="1619456194976" />
-    <state width="1419" height="202" key="GridCell.Tab.0.left" timestamp="1619456194974">
-      <screen x="0" y="25" width="1440" height="800" />
+    <state width="1419" height="243" key="GridCell.Tab.0.left" timestamp="1619527737718">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1619455757988" />
+    <state width="1419" height="243" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1619527737718" />
     <state width="1419" height="202" key="GridCell.Tab.0.left/0.25.1440.800@0.25.1440.800" timestamp="1619456194974" />
-    <state width="1419" height="202" key="GridCell.Tab.0.right" timestamp="1619456194977">
-      <screen x="0" y="25" width="1440" height="800" />
+    <state width="1419" height="243" key="GridCell.Tab.0.right" timestamp="1619527737719">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1619455757991" />
+    <state width="1419" height="243" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1619527737719" />
     <state width="1419" height="202" key="GridCell.Tab.0.right/0.25.1440.800@0.25.1440.800" timestamp="1619456194977" />
     <state x="144" y="76" key="MergeDialog" timestamp="1619463337918">
       <screen x="0" y="0" width="1440" height="900" />
@@ -147,9 +158,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="229" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1619456999765" />
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1619463285542">
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1619463432390">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1619463285542" />
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1619463432390" />
   </component>
 </project>

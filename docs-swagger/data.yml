@@ -8,8 +8,8 @@ definitions:
         type: string
 responses:
   200:
-    description: liste des catégories
+    description: liste des comptes rendus
     schema:
-      $ref: '#/definitions/Categorie'
+      $ref: '#/definitions/Compte_rendu'
     examples:
-      categories: ['id:1', 'Point_d_attention_risques']
+      compte-rendu: ['id:1','09/09/09', '23345', '34355', 'cherche à acheter une maison dans le centre ville', '0']
