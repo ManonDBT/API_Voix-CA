@@ -38,9 +38,16 @@ La problématique qui se pose ici est une classification. Le modèle devra donc 
 
 ## Visualisation de la donnée
 
+![schéma](https://drive.google.com/uc?export=view&id=1KLZKTg6RHplhfsZ6xfwtWHuI1VuCBSF4)
+
+![schéma](https://drive.google.com/uc?export=view&id=1oWhN1pj374jKUCyKhzg1kpHWqb6iXsxo)
+
+Les données sont très hétérogènes. Il faudra donc une bonne préparation afin d'avoir une bonne prédiction. 
 
 ## Modèle utilisé
 
+
+Le modèle utilisé est un algorithme de multiouput de sklearn, le decesion tree classifier 
 
 - [Notebook](https://github.com/ManonDBT/API_Voix-CA/blob/main/machine_learning/Multi-label_final.ipynb)
 - [MLFlow](https://github.com/ManonDBT/API_Voix-CA/blob/main/machine_learning/ML.py) 
@@ -58,4 +65,4 @@ La problématique qui se pose ici est une classification. Le modèle devra donc 
 
 - Créer un environnement virtuel sous Python 3.9
 - Installer le package par la commande pip install -r requirements.txt
-- Run le [fichier](https://github.com/ManonDBT/API_Voix-CA/blob/main/api.py)
+- Run le [fichier api.py](https://github.com/ManonDBT/API_Voix-CA/blob/main/api.py)
