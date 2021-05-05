@@ -11,9 +11,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4cd137d-5622-4e13-9077-705ee4a2b258" name="Default Changelist" comment="data">
-      <change beforePath="$PROJECT_DIR$/.idea/API_Voix-CA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/API_Voix-CA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs-swagger/data.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docs-swagger/data.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOIXCA_API.log" beforeDir="false" afterPath="$PROJECT_DIR$/VOIXCA_API.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.9/site-packages/pip-21.1.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.9/site-packages/pip-21.1.dist-info/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.9/site-packages/pip-21.1.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.9/site-packages/pip-21.1.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.9/site-packages/pip-21.1.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.9/site-packages/pip-21.1.dist-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.9/site-packages/pip-21.1.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.9/site-packages/pip/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.9/site-packages/pip/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.9/site-packages/pip/_internal/build_env.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.9/site-packages/pip/_internal/build_env.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.9/site-packages/pip/_internal/locations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.9/site-packages/pip/_internal/locations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.9/site-packages/pip/_internal/locations/_sysconfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.9/site-packages/pip/_internal/locations/_sysconfig.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.9/site-packages/pip/_internal/req/req_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.9/site-packages/pip/_internal/req/req_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/lib/python3.9/site-packages/pip/_internal/utils/hashes.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.9/site-packages/pip/_internal/utils/hashes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +35,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1riNYtjEuohRVU9JvklE6TM661u" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -32,14 +48,36 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/docs-swagger" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docs-swagger" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.api">
+    <configuration name="Dashboard_E1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="API_Voix-CA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/machine_learning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/machine_learning/Dashboard_E1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="api" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="API_Voix-CA" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -64,6 +102,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.api" />
+        <item itemvalue="Python.Dashboard_E1" />
       </list>
     </recent_temporary>
   </component>
@@ -97,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619463427398</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Ajout yml data">
+      <created>1619527886562</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619527886562</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,37 +161,38 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fonctionnalité" />
     <MESSAGE value="data" />
-    <option name="LAST_COMMIT_MESSAGE" value="data" />
+    <MESSAGE value="Ajout yml data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajout yml data" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="508" y="208" key="FileChooserDialogImpl" timestamp="1619456878650">
+    <state x="508" y="208" key="FileChooserDialogImpl" timestamp="1619527814920">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="508" y="208" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1619456878650" />
+    <state x="508" y="208" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1619527814920" />
     <state x="529" y="373" key="Github.CreateGistDialog" timestamp="1619455210352">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="529" y="373" key="Github.CreateGistDialog/0.0.1440.900@0.0.1440.900" timestamp="1619455210352" />
-    <state width="1419" height="243" key="GridCell.Tab.0.bottom" timestamp="1619527737720">
+    <state width="1419" height="242" key="GridCell.Tab.0.bottom" timestamp="1620205728606">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="243" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1619527737720" />
-    <state width="1419" height="202" key="GridCell.Tab.0.bottom/0.25.1440.800@0.25.1440.800" timestamp="1619456194978" />
-    <state width="1419" height="243" key="GridCell.Tab.0.center" timestamp="1619527737718">
+    <state width="1419" height="242" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1620205728606" />
+    <state width="1419" height="201" key="GridCell.Tab.0.bottom/0.25.1440.800@0.25.1440.800" timestamp="1619989662674" />
+    <state width="1419" height="242" key="GridCell.Tab.0.center" timestamp="1620205728605">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="243" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1619527737718" />
-    <state width="1419" height="202" key="GridCell.Tab.0.center/0.25.1440.800@0.25.1440.800" timestamp="1619456194976" />
-    <state width="1419" height="243" key="GridCell.Tab.0.left" timestamp="1619527737718">
+    <state width="1419" height="242" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1620205728605" />
+    <state width="1419" height="201" key="GridCell.Tab.0.center/0.25.1440.800@0.25.1440.800" timestamp="1619989662673" />
+    <state width="1419" height="242" key="GridCell.Tab.0.left" timestamp="1620205728602">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="243" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1619527737718" />
-    <state width="1419" height="202" key="GridCell.Tab.0.left/0.25.1440.800@0.25.1440.800" timestamp="1619456194974" />
-    <state width="1419" height="243" key="GridCell.Tab.0.right" timestamp="1619527737719">
+    <state width="1419" height="242" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1620205728602" />
+    <state width="1419" height="201" key="GridCell.Tab.0.left/0.25.1440.800@0.25.1440.800" timestamp="1619989662672" />
+    <state width="1419" height="242" key="GridCell.Tab.0.right" timestamp="1620205728605">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="243" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1619527737719" />
-    <state width="1419" height="202" key="GridCell.Tab.0.right/0.25.1440.800@0.25.1440.800" timestamp="1619456194977" />
+    <state width="1419" height="242" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1620205728605" />
+    <state width="1419" height="201" key="GridCell.Tab.0.right/0.25.1440.800@0.25.1440.800" timestamp="1619989662673" />
     <state x="144" y="76" key="MergeDialog" timestamp="1619463337918">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -154,13 +201,13 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="358" y="215" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1619463337967" />
-    <state x="229" y="86" key="SettingsEditor" timestamp="1619456999765">
+    <state x="229" y="86" key="SettingsEditor" timestamp="1619527859360">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="229" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1619456999765" />
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1619463432390">
+    <state x="229" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1619527859360" />
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1619528226688">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1619463432390" />
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1619528226688" />
   </component>
 </project>

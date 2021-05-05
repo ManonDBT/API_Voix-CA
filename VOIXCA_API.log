@@ -1549,3 +1549,81 @@
 2021-04-27 14:49:02,933 INFO werkzeug MainThread :  * Restarting with stat
 2021-04-27 14:49:05,783 WARNING werkzeug MainThread :  * Debugger is active!
 2021-04-27 14:49:05,795 INFO werkzeug MainThread :  * Debugger PIN: 180-342-804
+2021-05-02 21:46:29,160 INFO werkzeug MainThread :  * Running on http://0.0.0.0:4666/ (Press CTRL+C to quit)
+2021-05-02 21:46:29,161 INFO werkzeug MainThread :  * Restarting with stat
+2021-05-02 21:46:32,647 WARNING werkzeug MainThread :  * Debugger is active!
+2021-05-02 21:46:32,663 INFO werkzeug MainThread :  * Debugger PIN: 180-342-804
+2021-05-02 21:46:39,268 INFO werkzeug Thread-2 : 127.0.0.1 - - [02/May/2021 21:46:39] "[37mGET /clients HTTP/1.1[0m" 200 -
+2021-05-02 21:46:39,282 INFO werkzeug Thread-3 : 127.0.0.1 - - [02/May/2021 21:46:39] "[37mGET /datas/extended/collab/manon HTTP/1.1[0m" 200 -
+2021-05-02 21:47:06,997 INFO werkzeug Thread-4 : 127.0.0.1 - - [02/May/2021 21:47:06] "[37mGET /data/15 HTTP/1.1[0m" 200 -
+2021-05-02 21:47:15,669 INFO werkzeug Thread-5 : 127.0.0.1 - - [02/May/2021 21:47:15] "[37mGET /data/60 HTTP/1.1[0m" 200 -
+2021-05-02 21:47:41,215 INFO werkzeug Thread-6 : 127.0.0.1 - - [02/May/2021 21:47:41] "[37mGET /datas/extended HTTP/1.1[0m" 200 -
+2021-05-02 21:47:45,496 INFO werkzeug Thread-7 : 127.0.0.1 - - [02/May/2021 21:47:45] "[37mGET /clients HTTP/1.1[0m" 200 -
+2021-05-02 21:47:45,965 INFO werkzeug Thread-8 : 127.0.0.1 - - [02/May/2021 21:47:45] "[37mGET /datas/extended/client/1 HTTP/1.1[0m" 200 -
+2021-05-02 21:48:03,475 INFO werkzeug Thread-9 : 127.0.0.1 - - [02/May/2021 21:48:03] "[37mGET /clients HTTP/1.1[0m" 200 -
+2021-05-02 21:48:04,328 INFO werkzeug Thread-10 : 127.0.0.1 - - [02/May/2021 21:48:04] "[37mGET /datas/extended/client/1 HTTP/1.1[0m" 200 -
+2021-05-02 21:48:05,777 INFO werkzeug Thread-11 : 127.0.0.1 - - [02/May/2021 21:48:05] "[37mGET /clients HTTP/1.1[0m" 200 -
+2021-05-02 21:48:06,027 INFO werkzeug Thread-12 : 127.0.0.1 - - [02/May/2021 21:48:06] "[37mGET /datas/extended/client/1 HTTP/1.1[0m" 200 -
+2021-05-02 21:48:18,401 INFO werkzeug Thread-13 : 127.0.0.1 - - [02/May/2021 21:48:18] "[37mGET /datas/extended/client/1 HTTP/1.1[0m" 200 -
+2021-05-02 21:48:23,860 INFO werkzeug Thread-14 : 127.0.0.1 - - [02/May/2021 21:48:23] "[37mGET /datas/extended/client/4 HTTP/1.1[0m" 200 -
+2021-05-02 21:48:43,576 INFO werkzeug Thread-15 : 127.0.0.1 - - [02/May/2021 21:48:43] "[37mGET /clients HTTP/1.1[0m" 200 -
+2021-05-02 21:48:43,590 INFO werkzeug Thread-16 : 127.0.0.1 - - [02/May/2021 21:48:43] "[37mGET /datas/extended/collab/manon HTTP/1.1[0m" 200 -
+2021-05-02 22:15:39,860 INFO werkzeug MainThread :  * Running on http://0.0.0.0:4666/ (Press CTRL+C to quit)
+2021-05-02 22:15:39,862 INFO werkzeug MainThread :  * Restarting with stat
+2021-05-02 22:15:43,350 WARNING werkzeug MainThread :  * Debugger is active!
+2021-05-02 22:15:43,368 INFO werkzeug MainThread :  * Debugger PIN: 180-342-804
+2021-05-02 22:15:47,714 INFO werkzeug Thread-2 : 127.0.0.1 - - [02/May/2021 22:15:47] "[37mGET /clients HTTP/1.1[0m" 200 -
+2021-05-02 22:15:47,733 INFO werkzeug Thread-3 : 127.0.0.1 - - [02/May/2021 22:15:47] "[37mGET /datas/extended/collab/manon HTTP/1.1[0m" 200 -
+2021-05-02 22:15:49,886 INFO werkzeug Thread-4 : 127.0.0.1 - - [02/May/2021 22:15:49] "[37mGET /datas/extended HTTP/1.1[0m" 200 -
+2021-05-05 10:45:50,872 INFO werkzeug MainThread :  * Running on http://0.0.0.0:4666/ (Press CTRL+C to quit)
+2021-05-05 10:45:50,889 INFO werkzeug MainThread :  * Restarting with fsevents reloader
+2021-05-05 10:45:52,291 WARNING werkzeug MainThread :  * Debugger is active!
+2021-05-05 10:45:52,307 INFO werkzeug MainThread :  * Debugger PIN: 180-342-804
+2021-05-05 10:46:44,375 INFO werkzeug Thread-7 : 127.0.0.1 - - [05/May/2021 10:46:44] "[37mGET /datas HTTP/1.1[0m" 200 -
+2021-05-05 10:46:44,653 INFO werkzeug Thread-8 : 127.0.0.1 - - [05/May/2021 10:46:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-05-05 10:46:50,530 INFO werkzeug Thread-9 : 127.0.0.1 - - [05/May/2021 10:46:50] "[37mGET /datas HTTP/1.1[0m" 200 -
+2021-05-05 10:47:45,881 INFO werkzeug Thread-2 :  * Detected change in '/Users/manon/Projet/API_Voix-CA/machine_learning/Dashboard_E1.py', reloading
+2021-05-05 10:47:47,153 INFO werkzeug MainThread :  * Restarting with fsevents reloader
+2021-05-05 10:47:51,729 WARNING werkzeug MainThread :  * Debugger is active!
+2021-05-05 10:47:51,746 INFO werkzeug MainThread :  * Debugger PIN: 180-342-804
+2021-05-05 10:48:10,446 INFO werkzeug Thread-2 :  * Detected change in '/Users/manon/Projet/API_Voix-CA/machine_learning/Dashboard_E1.py', reloading
+2021-05-05 10:48:13,254 INFO werkzeug MainThread :  * Restarting with fsevents reloader
+2021-05-05 10:48:19,469 WARNING werkzeug MainThread :  * Debugger is active!
+2021-05-05 10:48:19,491 INFO werkzeug MainThread :  * Debugger PIN: 180-342-804
+2021-05-05 10:48:28,263 INFO werkzeug Thread-2 :  * Detected change in '/Users/manon/Projet/API_Voix-CA/machine_learning/Dashboard_E1.py', reloading
+2021-05-05 10:48:29,669 INFO werkzeug MainThread :  * Restarting with fsevents reloader
+2021-05-05 10:48:33,307 WARNING werkzeug MainThread :  * Debugger is active!
+2021-05-05 10:48:33,319 INFO werkzeug MainThread :  * Debugger PIN: 180-342-804
+2021-05-05 10:48:33,367 INFO werkzeug Thread-7 : 127.0.0.1 - - [05/May/2021 10:48:33] "[37mGET /datas HTTP/1.1[0m" 200 -
+2021-05-05 11:00:21,361 INFO werkzeug Thread-8 : 127.0.0.1 - - [05/May/2021 11:00:21] "[37mGET /datas HTTP/1.1[0m" 200 -
+2021-05-05 11:01:59,043 INFO werkzeug Thread-9 : 127.0.0.1 - - [05/May/2021 11:01:59] "[37mGET /datas HTTP/1.1[0m" 200 -
+2021-05-05 11:02:45,982 INFO werkzeug Thread-10 : 127.0.0.1 - - [05/May/2021 11:02:45] "[37mGET /datas HTTP/1.1[0m" 200 -
+2021-05-05 11:03:27,535 INFO werkzeug Thread-11 : 127.0.0.1 - - [05/May/2021 11:03:27] "[37mGET /datas HTTP/1.1[0m" 200 -
+2021-05-05 11:03:36,753 INFO werkzeug Thread-12 : 127.0.0.1 - - [05/May/2021 11:03:36] "[37mGET /datas HTTP/1.1[0m" 200 -
+2021-05-05 11:06:30,359 INFO werkzeug Thread-13 : 127.0.0.1 - - [05/May/2021 11:06:30] "[37mGET /datas HTTP/1.1[0m" 200 -
+2021-05-05 11:06:33,833 INFO werkzeug Thread-14 : 127.0.0.1 - - [05/May/2021 11:06:33] "[37mGET /datas HTTP/1.1[0m" 200 -
+2021-05-05 11:07:57,098 INFO werkzeug Thread-2 :  * Detected change in '/Users/manon/Projet/API_Voix-CA/machine_learning/Dashboard_E1.py', reloading
+2021-05-05 11:07:58,627 INFO werkzeug MainThread :  * Restarting with fsevents reloader
+2021-05-05 11:08:02,299 WARNING werkzeug MainThread :  * Debugger is active!
+2021-05-05 11:08:02,329 INFO werkzeug MainThread :  * Debugger PIN: 180-342-804
+2021-05-05 11:08:51,429 INFO werkzeug Thread-7 : 127.0.0.1 - - [05/May/2021 11:08:51] "[37mGET /datas HTTP/1.1[0m" 200 -
+2021-05-05 11:09:34,050 INFO werkzeug Thread-2 :  * Detected change in '/Users/manon/Projet/API_Voix-CA/machine_learning/Dashboard_E1.py', reloading
+2021-05-05 11:09:35,419 INFO werkzeug MainThread :  * Restarting with fsevents reloader
+2021-05-05 11:09:38,611 WARNING werkzeug MainThread :  * Debugger is active!
+2021-05-05 11:09:38,631 INFO werkzeug MainThread :  * Debugger PIN: 180-342-804
+2021-05-05 11:09:38,698 INFO werkzeug Thread-7 : 127.0.0.1 - - [05/May/2021 11:09:38] "[37mGET /datas HTTP/1.1[0m" 200 -
+2021-05-05 11:10:00,820 INFO werkzeug Thread-2 :  * Detected change in '/Users/manon/Projet/API_Voix-CA/machine_learning/Dashboard_E1.py', reloading
+2021-05-05 11:10:02,518 INFO werkzeug MainThread :  * Restarting with fsevents reloader
+2021-05-05 11:10:06,381 WARNING werkzeug MainThread :  * Debugger is active!
+2021-05-05 11:10:06,394 INFO werkzeug MainThread :  * Debugger PIN: 180-342-804
+2021-05-05 11:19:03,787 INFO werkzeug Thread-2 :  * Detected change in '/Users/manon/Projet/API_Voix-CA/machine_learning/Dashboard_E1.py', reloading
+2021-05-05 11:19:05,515 INFO werkzeug MainThread :  * Restarting with fsevents reloader
+2021-05-05 11:19:09,874 WARNING werkzeug MainThread :  * Debugger is active!
+2021-05-05 11:19:09,885 INFO werkzeug MainThread :  * Debugger PIN: 180-342-804
+2021-05-05 11:19:25,323 INFO werkzeug Thread-2 :  * Detected change in '/Users/manon/Projet/API_Voix-CA/machine_learning/Dashboard_E1.py', reloading
+2021-05-05 11:19:27,788 INFO werkzeug MainThread :  * Restarting with fsevents reloader
+2021-05-05 11:19:31,270 WARNING werkzeug MainThread :  * Debugger is active!
+2021-05-05 11:19:31,282 INFO werkzeug MainThread :  * Debugger PIN: 180-342-804
+2021-05-05 11:20:57,804 INFO werkzeug Thread-2 :  * Detected change in '/Users/manon/Projet/API_Voix-CA/machine_learning/Dashboard_E1.py', reloading
+2021-05-05 11:20:59,558 INFO werkzeug MainThread :  * Restarting with fsevents reloader
+2021-05-05 11:21:03,704 WARNING werkzeug MainThread :  * Debugger is active!

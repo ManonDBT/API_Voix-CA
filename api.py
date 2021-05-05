@@ -127,6 +127,7 @@ def get_categorie(id):
 @app.route('/datas', methods=['GET'])
 def get_datas():
     '''Fonction pour voir tous les comptes-rendus de la base de donnée'''
+    app.logger.info('Processing default request')
     return jsonify({'Data': Data.get_all_datas()})
 
 
