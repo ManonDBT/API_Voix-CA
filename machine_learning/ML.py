@@ -94,7 +94,7 @@ if __name__ == "__main__":
 
 
 
-def eval_metrics(actual, pred):
+def eval_metrics(y_test, predict_decision_tree):
     f1 = f1_score(y_test, predict_decision_tree, average='macro')
     recall = recall_score(y_test, predict_decision_tree, average='macro')
     precision = precision_score(y_test, predict_decision_tree, average='macro')
